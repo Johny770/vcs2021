@@ -1,0 +1,7 @@
+Crawling este un bot web care vizitează un teanc de pagini web și acumulează link-urile (url-urile) nodurilor, derivând 
+adrese URL noi din fiecare nouă pagină web [html] pe care o accesează. Crawlerul poate sau nu să obțină informații 
+despre pagini într-un spațiu de stocare a datelor.
+Parsing  este un robot offline care procesează sau analizează date date pentru a face din ele structuri de date adecvate.
+Acesta preia informații din date nestructurate, fie din stocarea datelor, fie direct de pe web.
+Scraping  este un bot care vizitează paginile web ale unui anumit set de adrese URL. Nu colectează adrese URL noi 
+(așa cum o face un crawler).
